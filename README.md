@@ -1,6 +1,1 @@
-Rising Senior Studying Software Development at Grand Canyon University. 
-
-<!---
-cadensilvey/cadensilvey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a recent graduate from Grand Canyon University, where I honed my skills in both front-end and back-end technologies. My education provided me with a solid foundation in web development, allowing me to tackle complex projects with confidence. I am deeply passionate about web development and continually strive to stay updated with the latest industry trends. I am eager to apply my knowledge and enthusiasm to create innovative and effective web solutions.
